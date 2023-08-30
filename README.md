@@ -10,7 +10,7 @@
         <li>Alan Isaí Delgado Elías</li>
         <li>Juan Pablo Escobar Guzman</li>
     </ul>
-<a href="https://www.notion.so/db2020864cbc4077844c40689b226e0a">Organizador Notion</a>
- <a href="https://docs.google.com/document/d/1_GrtBNF0UBHGWe1j6Mw5NWYck3eHE_WAkipfd7H8TL4/edit?usp=drivesdk">Manual de usuario</a>  
- <a href="https://docs.google.com/document/d/1YRrKQMABjyEjp2bqXlRjTK9suym8IlT6p8l3lKaqj74/edit?usp=drivesdk">Manual Tecnico</a>
+<a href="https://www.notion.so/db2020864cbc4077844c40689b226e0a">Organizador Notion</a><br>
+ <a href="https://docs.google.com/document/d/1_GrtBNF0UBHGWe1j6Mw5NWYck3eHE_WAkipfd7H8TL4/edit?usp=drivesdk">Manual de usuario</a><br>  
+ <a href="https://docs.google.com/document/d/1YRrKQMABjyEjp2bqXlRjTK9suym8IlT6p8l3lKaqj74/edit?usp=drivesdk">Manual Tecnico</a><br>
 "# web-GymGanized" 
