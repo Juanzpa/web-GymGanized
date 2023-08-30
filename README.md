@@ -13,4 +13,4 @@
 <a href="https://www.notion.so/db2020864cbc4077844c40689b226e0a" target="_blank">Organizador Notion</a><br>
  <a href="https://docs.google.com/document/d/1_GrtBNF0UBHGWe1j6Mw5NWYck3eHE_WAkipfd7H8TL4/edit?usp=drivesdk" target="_blank">Manual de usuario</a><br>  
  <a href="https://docs.google.com/document/d/1YRrKQMABjyEjp2bqXlRjTK9suym8IlT6p8l3lKaqj74/edit?usp=drivesdk" target="_blank">Manual Tecnico</a><br>
-"# web-GymGanized" 
+
